@@ -1,0 +1,6 @@
+{
+  "name": "QuickFlow AI V1",
+  "description": "Responsive multi-tenant SaaS for physics-constrained reservoir production forecasting, automated data validation, material balance audits, and STOIIP verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
